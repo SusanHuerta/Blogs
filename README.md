@@ -7,8 +7,8 @@ Welcome to my blog archive — a curated space for authentic, bilingual insights
 
 ## 📚 Featured Posts
 
-- [Project Management Isn’t Just for PMs — It’s for Everyone](**posts/2025-08-28-project-management.md**)  
-- [Employee Experience = Customer Retention?](https://substack.com/home/post/p-171673390)
+- [Project Management Isn’t Just for PMs — It’s for Everyone](**https://open.substack.com/pub/susanimpact/p/project-management-isnt-just-for?r=6cyiix&utm_campaign=post&utm_medium=web**)  
+- [Employee Experience = Customer Retention?](**https://open.substack.com/pub/susanimpact/p/employee-experience-customer-retention?r=6cyiix&utm_campaign=post&utm_medium=web**)
 
 ## 🧩 Topics I Explore
 
