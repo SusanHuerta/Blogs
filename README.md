@@ -1,11 +1,24 @@
-# Blogs
-│
-├── README.md                  # Intro to your blog repo with Substack redirect
-├── posts/                     # Markdown versions of your blog posts
-│   ├── 2025-08-28-project-management.md
-│   └── 2025-08-30-hr-onboarding.md
-├── assets/                    # Optional: images, badges, visuals
-│   ├── images/
-│   └── badges/
-├── LICENSE                    # Optional: choose a license
-└── .gitignore                 # Optional: ignore system files
+# ✨ SusanImpact Blog Repository
+
+Welcome to my blog archive — a curated space for authentic, bilingual insights on HR strategy, leadership, project management, and digital branding.
+
+📬 **Read the full experience on Substack:**  
+👉 [https://susanimpact.substack.com](https://susanimpact.substack.com)
+
+## 📚 Featured Posts
+
+- [Project Management Isn’t Just for PMs — It’s for Everyone](posts/2025-08-28-project-management.md)  
+- [HR Onboarding That Actually Works](posts/2025-08-30-hr-onboarding.md)
+
+## 🧩 Topics I Explore
+
+- HR Strategy & Global Talent Acquisition  
+- Internal Communication & Culture Building  
+- Project Management for Non-PMs  
+- Personal Branding & Visual Identity  
+- Humor-infused Leadership & Empathy at Work
+
+---
+
+🗂️ This repo is a companion to my Substack, where I share deeper reflections, bilingual content, and practical tools for modern professionals.
+
