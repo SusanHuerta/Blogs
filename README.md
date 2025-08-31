@@ -7,8 +7,8 @@ Welcome to my blog archive — a curated space for authentic, bilingual insights
 
 ## 📚 Featured Posts
 
-- [Project Management Isn’t Just for PMs — It’s for Everyone](posts/2025-08-28-project-management.md)  
-- [HR Onboarding That Actually Works](posts/2025-08-30-hr-onboarding.md)
+- [Project Management Isn’t Just for PMs — It’s for Everyone](**posts/2025-08-28-project-management.md**)  
+- [Employee Experience = Customer Retention?](https://substack.com/home/post/p-171673390)
 
 ## 🧩 Topics I Explore
 
